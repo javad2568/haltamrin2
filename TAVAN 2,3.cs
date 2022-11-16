@@ -17,8 +17,8 @@ namespace ConsoleApplication9
         }
     static void Power(int X)
         {
-            Console.WriteLine(Math.Pow(X, 2));
-         Console.WriteLine(Math.Pow(X, 3));
+            Console.WriteLine(Math.Pow(X, 3));
+         Console.WriteLine(Math.Pow(X, 2));
                Console.ReadKey();
         }
     }
